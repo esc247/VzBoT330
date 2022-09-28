@@ -4,7 +4,7 @@ This repo contains all the klipper config files and macros for my upgraded X5SA.
 
 I upgraded my X5SA with the following:
 
-1) E3D Volcano hotend (0.6mm nozzle)
+1) E3D Volcano hotend (0.6mm nozzle) - Mount: https://www.printables.com/model/181860-boxi-mount-v6-bmg-aio-mount
 2) Mellow Fly Super 8 (Infinity) board and 2209 stepper drivers.
 3) Euclid probe
 

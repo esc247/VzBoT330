@@ -9,7 +9,7 @@ I started with an X5SA (just the normal 330 one). I upgraded my X5SA with the fo
 3) Mellow Fly Super 8 (Infinity) board and 2209 stepper drivers. (JayUK)
 4) Euclid probe (https://euclidprobe.github.io/)
 5) Rock 4 SE board, upgraded from RPi 2B (https://www.okdo.com/us/p/okdo-rock-4-model-se-4gb-single-board-computer-rockchip-rk3399-t-arm-cortex-a72-cortex-a53/)
-6) PEI hotbed sheet )https://www.amazon.co.uk/Toaiot-330x330mm-Sheet%EF%BC%8C13x13-Compatible-Tronxy-X5S/dp/B0BX969VV3/ref=sr_1_28?crid=3U4EJ0HHJTPK3&keywords=pei+sheet+330&qid=1680214114&sprefix=pei+sheet+330%2Caps%2C69&sr=8-28)
+6) PEI hotbed sheet (https://www.amazon.co.uk/Toaiot-330x330mm-Sheet%EF%BC%8C13x13-Compatible-Tronxy-X5S/dp/B0BX969VV3/ref=sr_1_28?crid=3U4EJ0HHJTPK3&keywords=pei+sheet+330&qid=1680214114&sprefix=pei+sheet+330%2Caps%2C69&sr=8-28)
 7) Vz Gantry (https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/Gantry) - usongshine Linear Rails Parts + Printed
 8) Vz Z Assembly (https://github.com/VzBoT3D/VzBoT-Vz330/tree/master/Assemblies%20BOM%20and%20STL/Z%20assembly) - Mellow Parts
 9) Vz Printed Printhead (https://github.com/VzBoT3D/Vz-Printhead-Printed)

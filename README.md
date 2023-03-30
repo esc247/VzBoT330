@@ -15,19 +15,23 @@ I started with an X5SA (just the normal 330 one). I upgraded my X5SA with the fo
 9) Vz Printed Printhead
 10) Goliath hotend
 11) KUSBA Accelerometer
-12) Beacon Probe (
+12) Beacon Probe (upgraded from Euclid Probe)
+13) Upgraded Mellow PEI double sided sheet (Smooth and Textured)
+
+TO DO:
+13) Enclosure including Top Hat
+14) CPAP
 
 I plan on keeping this repo as up-to-date as possible with my current set up.
 
 My config currently includes:
 
-1) 
-2) Euclid probe deploy and stow
-3) 2 webcams
-4) Obico
+1) Klipper on Rock 4 SE (Radxa build of Debian Bullseye CLI only). Klipper configured using KIUAH (https://github.com/th33xitus/kiauh)
+2) KAMP (https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) 
 
-I used KIUAH (https://github.com/th33xitus/kiauh) to install:
+I used KIUAH to install:
 1) Klipper
 2) Mainsail
 3) Moonraker
-4) Obico
+4) Crowsnest
+5) OctoEverywhere

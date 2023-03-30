@@ -20,8 +20,8 @@ I started with an X5SA (just the normal 330 one). I upgraded my X5SA with the fo
 
 TO DO:
 
-13) Enclosure including Top Hat
-14) CPAP
+14) Enclosure including Top Hat
+15) CPAP
 
 I plan on keeping this repo as up-to-date as possible with my current set up.
 

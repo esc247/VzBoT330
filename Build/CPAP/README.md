@@ -6,7 +6,7 @@ All the sources that I used are linked below.
 
 I was able to get full control of the cpap fan from 20% to 100%.
 
-VSR from the CPAP driver board is connected to the rock 4 GPIO pin # 37. The latest printer.cfg is available [here](README.md)
+VSR from the CPAP driver board is connected to the rock 4 GPIO pin # 37. The latest printer.cfg is available [here](../../Klipper/Al/config/printer.cfg)
 
 **Super 8 Pin Documentation:** 
 English: https://mellow-3d.github.io/fly-super8_pins.html

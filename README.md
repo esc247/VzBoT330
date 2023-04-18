@@ -1,5 +1,4 @@
 # VzBoT330 - Al
-
 This repo contains all the config files, macros and stls that I printed after collecting them from various sources. Some of the parts were also designed by myself when I could not find something suitable for my for my VzBoT330. 
 
 I started with an X5SA (just the normal 330 one). I upgraded my X5SA with the following in order, to make it the VzBoT as it stands now:
@@ -18,18 +17,20 @@ I started with an X5SA (just the normal 330 one). I upgraded my X5SA with the fo
 12) KUSBA Accelerometer (https://github.com/xbst/KUSBA) (https://www.printyplease.uk/Accessories/KUSBA)
 13) Beacon Probe (upgraded from Euclid Probe) (https://beacon3d.com/)
 14) Upgraded Mellow PEI double sided sheet (Smooth and Textured) - Mellow
+15) CPAP - Parts from Mellow - More info in the readme in the CPAP folder
 
-TO DO:
+**Ongoing:**
+1) Back plate for electronics
 
+**TO DO:**
 1) Enclosure including Top Hat (https://christmas3dp.com/product-category/vzbot/)
-2) CPAP - Mellow
 
 I plan on keeping this repo as up-to-date as possible with my current set up.
 
-My config currently includes:
-
+**Current config**
 1) Klipper on Rock 4 SE (Radxa build of Debian Bullseye CLI only). Klipper configured using KIUAH (https://github.com/th33xitus/kiauh)
 2) KAMP (https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging) 
+3) Timelapse
 
 I used KIUAH to install:
 1) Klipper
